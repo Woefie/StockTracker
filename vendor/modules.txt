@@ -1,0 +1,9 @@
+# github.com/piquette/finance-go v1.0.0
+## explicit
+github.com/piquette/finance-go
+github.com/piquette/finance-go/form
+github.com/piquette/finance-go/iter
+github.com/piquette/finance-go/quote
+# github.com/shopspring/decimal v1.2.0
+## explicit
+github.com/shopspring/decimal
