@@ -1,4 +1,8 @@
-github.com/piquette/finance-go v1.0.0 h1:0nHbZCbhAsUMUt18oTgy5bHQfPRGhcNA0EbpxNRsZAA=
-github.com/piquette/finance-go v1.0.0/go.mod h1:H51NoGFnfu41Un/Fp0aAhS2lLRFBiiwHhMsV59bXAI0=
-github.com/shopspring/decimal v1.2.0 h1:abSATXmQEYyShuxI4/vyW3tV1MrKAJzCZ/0zLUXYbsQ=
-github.com/shopspring/decimal v1.2.0/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/m1/go-finnhub v0.0.0-20200201145322-d873edaeab2c h1:KcIFsL1ir8jwkapUAp4IzD65wAKrHld5Aapmheo0utU=
+github.com/m1/go-finnhub v0.0.0-20200201145322-d873edaeab2c/go.mod h1:+JYfekzUyr6BDbweDnHDg+qQcFP7/+TT9fSfHNK1n0I=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

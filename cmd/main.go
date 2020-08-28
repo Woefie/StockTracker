@@ -3,17 +3,20 @@ package main
 import (
 	"fmt"
 
-	"github.com/piquette/finance-go/quote"
+	"github.com/m1/go-finnhub/client"
 )
 
 func main() {
 
-	q, err := quote.Get("AAPL")
+	c := client.New("bt4fk1f48v6u8ohnujl0")
+
+	// Stocks
+	company, err := c.Stock.GetProfile("AAPL")
+
 	if err != nil {
-		// Uh-oh.
-		panic(err)
+		fmt.Println(err)
 	}
 
 	// Success!
-	fmt.Println(q)
+	fmt.Println(company)
 }
