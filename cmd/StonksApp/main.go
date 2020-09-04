@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/Woefie/Stoink/pkg/web"
+	"github.com/Woefie/Stonks/pkg/web"
 )
 
 func main() {
 
-	activateRouter()
+	web.activateRouter()
 
 	// finnhubClient := finnhub.NewAPIClient(finnhub.NewConfiguration()).DefaultApi
 	// auth := context.WithValue(context.Background(), finnhub.ContextAPIKey, finnhub.APIKey{
