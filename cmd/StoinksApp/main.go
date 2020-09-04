@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/Woefie/Stoink/pkg/webserver"
+	"github.com/Woefie/Stoink/pkg/web"
 )
 
 func main() {

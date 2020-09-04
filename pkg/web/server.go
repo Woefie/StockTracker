@@ -1,4 +1,4 @@
-package stoinks
+package web
 
 import (
 	"fmt"
